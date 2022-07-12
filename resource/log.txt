@@ -1,0 +1,25 @@
+[                        ]0%      Loading: 0 de 24     
+[-                       ]4%      Loading: 1 de 24     c
+[-                       ]8%      Loading: 2 de 24     cA
+[=-                      ]12%      Loading: 3 de 24     cAr
+[==-                     ]16%      Loading: 4 de 24     cArl
+[===-                    ]20%      Loading: 5 de 24     cArlO
+[=====-                  ]25%      Loading: 6 de 24     cArlOs
+[=====-                  ]29%      Loading: 7 de 24     cArlOs.
+[======-                 ]33%      Loading: 8 de 24     cArlOs.A
+[=======-                ]37%      Loading: 9 de 24     cArlOs.Al
+[========-               ]41%      Loading: 10 de 24     cArlOs.AlE
+[=========-              ]45%      Loading: 11 de 24     cArlOs.AlEm
+[===========-            ]50%      Loading: 12 de 24     cArlOs.AlEmA
+[===========-            ]54%      Loading: 13 de 24     cArlOs.AlEmAn
+[============-           ]58%      Loading: 14 de 24     cArlOs.AlEmAn@
+[=============-          ]62%      Loading: 15 de 24     cArlOs.AlEmAn@E
+[==============-         ]66%      Loading: 16 de 24     cArlOs.AlEmAn@Ep
+[===============-        ]70%      Loading: 17 de 24     cArlOs.AlEmAn@Epn
+[=================-      ]75%      Loading: 18 de 24     cArlOs.AlEmAn@Epn.
+[=================-      ]79%      Loading: 19 de 24     cArlOs.AlEmAn@Epn.E
+[==================-     ]83%      Loading: 20 de 24     cArlOs.AlEmAn@Epn.Ed
+[===================-    ]87%      Loading: 21 de 24     cArlOs.AlEmAn@Epn.EdU
+[====================-   ]91%      Loading: 22 de 24     cArlOs.AlEmAn@Epn.EdU.
+[=====================-  ]95%      Loading: 23 de 24     cArlOs.AlEmAn@Epn.EdU.E
+[========================]100%      Loading: 24 de 24     cArlOs.AlEmAn@Epn.EdU.Ec
